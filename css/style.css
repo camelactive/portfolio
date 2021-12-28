@@ -371,9 +371,8 @@ ul {
 }
 
 .map_full {
-    position: absolute;
-    top: 2900px;
-    right: 900px;
+    margin-left: 50%;
+    margin-top: -40%;
 }
 
 .section_five {
@@ -536,6 +535,7 @@ ul {
     align-items: center;
     display: flex;
     flex-direction: column;
+    margin-left: 0%;
 }
 
 .section_six_card_header {
