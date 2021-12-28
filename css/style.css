@@ -17,7 +17,7 @@ body {
 
 .header {
     background: rgba(29, 28, 28, 0.5);
-    background-image: url(/images/first_page.png);
+    background-image: url(../images/first_page.png);
     display: flex;
     width: 100%;
 }
@@ -52,7 +52,7 @@ body {
 .logo {}
 
 .phone_nuber ::before {
-    content: url(/images/phone.svg);
+    content: url(../images/phone.svg);
     position: absolute;
     left: 40px;
 }
@@ -111,7 +111,7 @@ body {
 .head_section_background1,
 .head_section_background2 {
     background-color: #fff;
-    background-image: url(/images/first_window2.svg);
+    background-image: url(../images/first_window2.svg);
     width: 1920px;
     height: 646px;
     position: absolute;
@@ -190,7 +190,7 @@ ul {
 }
 
 .section_two_content_left {
-    background-image: url(/images/section_two_left.jpg);
+    background-image: url(../images/section_two_left.jpg);
     width: 1920px;
     height: 905px;
     position: absolute;
@@ -198,7 +198,7 @@ ul {
 }
 
 .section_two_content_right {
-    background-image: url(/images/section_two_right.png);
+    background-image: url(../images/section_two_right.png);
     background-size: cover;
     width: 1920px;
     height: 905px;
@@ -319,7 +319,7 @@ ul {
 
 .section_four {
     background-color: black;
-    background: url(/images/section_four_background.png);
+    background: url(../images/section_four_background.png);
     width: 1920px;
     color: #fff;
     background-size: cover;
@@ -378,7 +378,7 @@ ul {
 
 .section_five {
     padding-top: 100px;
-    background: url(/images/section_five.png);
+    background: url(../images/section_five.png);
     margin-top: -60px;
     width: 1920px;
     height: 770px;
@@ -428,29 +428,29 @@ ul {
 .item1::before {
     padding-right: 20px;
     text-align: center;
-    content: url(/images/section_five_first_image.svg);
+    content: url(../images/section_five_first_image.svg);
 }
 
 .item2::before {
     padding-right: 20px;
     text-align: center;
-    content: url(/images/section_five_second_image.svg);
+    content: url(../images/section_five_second_image.svg);
 }
 
 .item3::before {
     padding-right: 20px;
     text-align: center;
-    content: url(/images/section_five_third_image.svg);
+    content: url(../images/section_five_third_image.svg);
 }
 
 .item4::before {
     padding-right: 20px;
     text-align: center;
-    content: url(/images/section_five_four_image.svg);
+    content: url(../images/section_five_four_image.svg);
 }
 
 .middle_orange {
-    background: url(/images/middle_orange.png);
+    background: url(../images/middle_orange.png);
     height: 356px;
     width: 1920px;
     margin-top: -150px;
@@ -494,7 +494,7 @@ ul {
 }
 
 .section_six_main {
-    background: url(/images/section_six.png);
+    background: url(../images/section_six.png);
     Width: 1280px;
     height: 912px;
     background-size: cover;
