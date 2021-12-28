@@ -19,7 +19,8 @@ body {
     background: rgba(29, 28, 28, 0.5);
     background-image: url(../images/first_page.png);
     display: flex;
-    width: 100%;
+    width: 1920px;
+    height: 770px;
 }
 
 .header_list {
@@ -264,6 +265,8 @@ ul {
     display: flex;
     justify-content: center;
     background-color: black;
+     width: 1920px;
+    height: 770px;
 }
 
 .section_three_content {
